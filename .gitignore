@@ -10,6 +10,7 @@ obj-x86_64-linux-gnu
 *.swp
 
 test/python/*.c
+matlab/casadi*
 
 # documentation
 docs/api/html
