@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../SimulationGears_for_SpaceNav"
+		},
+		{
+			"path": "../dev-tools/AutoCodegenTools4MATLAB"
 		}
 	],
 	"settings": {}
